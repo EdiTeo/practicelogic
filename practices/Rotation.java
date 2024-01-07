@@ -3,7 +3,7 @@ package practicelogic.practices;
 import java.util.*;
 
 public class Rotation{
-    public static void main(String args[]){
+    public static void main(Strings args[]){
         Scanner sc = new Scanner(System.in);
         System.out.println();
         int[] number = new int[10];
