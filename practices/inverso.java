@@ -13,7 +13,7 @@ public class inverso {
  */
  
     
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         Scanner sc = new Scanner(System.in);
         System. out. println("Ingrese el tañamo de su arreglo");
         int n = sc.nextInt();
